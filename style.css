@@ -1,0 +1,23 @@
+div {
+	border-style: dashed;
+	width: 385px;
+}
+sub {
+	color: blue;
+	font-size: small;
+	font-weight: bold;
+	font-style: normal;
+}
+sup {
+	color: red;
+	font-size: small;
+	font-weight: bold;
+	font-style: normal;
+}
+p {
+	margin: 8px 0px 18px 3px;
+}
+.formul {
+	font-size: 25px;
+	margin-bottom: 30px;
+}
